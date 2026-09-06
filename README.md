@@ -85,3 +85,15 @@ Feel free to fork this repository, add more solutions in different languages, or
 
 ---
 *Happy Coding!* 💻
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/aryxn-builds/DSA/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/aryxn-builds/DSA/tree/master/0115-distinct-subsequences) |
+<!---LeetCode Topics End-->
