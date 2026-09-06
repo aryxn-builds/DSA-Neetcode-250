@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-52-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-58-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -18,11 +18,14 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | Problem Name | Languages |
 | ------------ | --------- |
 | [4sum](Data%20Structures%20%26%20Algorithms/4sum) | Python |
+| [Add Two Numbers](Data%20Structures%20%26%20Algorithms/add-two-numbers) | Python |
 | [Binary Search](Data%20Structures%20%26%20Algorithms/binary-search) | Python |
 | [Buy And Sell Crypto](Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto) | Python |
 | [Capacity To Ship Packages Within D Days](Data%20Structures%20%26%20Algorithms/capacity-to-ship-packages-within-d-days) | Python |
 | [Check If Array Is Sorted And Rotated](Data%20Structures%20%26%20Algorithms/check-if-array-is-sorted-and-rotated) | Python |
 | [Concatenation Of Array](Data%20Structures%20%26%20Algorithms/concatenation-of-array) | Python |
+| [Copy Linked List With Random Pointer](Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer) | Python |
+| [Count Subsequences](Data%20Structures%20%26%20Algorithms/count-subsequences) | Python |
 | [Duplicate Integer](Data%20Structures%20%26%20Algorithms/duplicate-integer) | Python |
 | [Eating Bananas](Data%20Structures%20%26%20Algorithms/eating-bananas) | Python |
 | [Find First And Last Position Of Element In Sorted Array](Data%20Structures%20%26%20Algorithms/find-first-and-last-position-of-element-in-sorted-array) | Python |
@@ -30,6 +33,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Find Peak Element](Data%20Structures%20%26%20Algorithms/find-peak-element) | Python |
 | [Find Target In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array) | Python |
 | [Guess Number Higher Or Lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower) | Python |
+| [Intersection Of Two Linked Lists](Data%20Structures%20%26%20Algorithms/intersection-of-two-linked-lists) | Python |
 | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram) | Python |
 | [Isomorphic Strings](Data%20Structures%20%26%20Algorithms/isomorphic-strings) | Python |
 | [Linked List Cycle Detection](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection) | Python |
@@ -52,8 +56,10 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Remove Duplicates From Sorted Array](Data%20Structures%20%26%20Algorithms/remove-duplicates-from-sorted-array) | Python |
 | [Remove Node From End Of Linked List](Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list) | Python |
 | [Reverse A Linked List](Data%20Structures%20%26%20Algorithms/reverse-a-linked-list) | Python |
+| [Reverse Nodes In K Group](Data%20Structures%20%26%20Algorithms/reverse-nodes-in-k-group) | Python |
 | [Roman To Integer](Data%20Structures%20%26%20Algorithms/roman-to-integer) | Python |
 | [Rotate Array](Data%20Structures%20%26%20Algorithms/rotate-array) | Python |
+| [Rotate List](Data%20Structures%20%26%20Algorithms/rotate-list) | Python |
 | [Rotate Matrix](Data%20Structures%20%26%20Algorithms/rotate-matrix) | Python |
 | [Search 2d Matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix) | Python |
 | [Search In Rotated Sorted Array Ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii) | Python |
@@ -85,15 +91,3 @@ Feel free to fork this repository, add more solutions in different languages, or
 
 ---
 *Happy Coding!* 💻
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0115-distinct-subsequences](https://github.com/aryxn-builds/DSA/tree/master/0115-distinct-subsequences) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0115-distinct-subsequences](https://github.com/aryxn-builds/DSA/tree/master/0115-distinct-subsequences) |
-<!---LeetCode Topics End-->
