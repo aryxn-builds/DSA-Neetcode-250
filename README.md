@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-58-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-66-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -23,6 +23,9 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Buy And Sell Crypto](Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto) | Python |
 | [Capacity To Ship Packages Within D Days](Data%20Structures%20%26%20Algorithms/capacity-to-ship-packages-within-d-days) | Python |
 | [Check If Array Is Sorted And Rotated](Data%20Structures%20%26%20Algorithms/check-if-array-is-sorted-and-rotated) | Python |
+| [Combination Target Sum](Data%20Structures%20%26%20Algorithms/combination-target-sum) | Python |
+| [Combination Target Sum Ii](Data%20Structures%20%26%20Algorithms/combination-target-sum-ii) | Python |
+| [Combinations Of A Phone Number](Data%20Structures%20%26%20Algorithms/combinations-of-a-phone-number) | Python |
 | [Concatenation Of Array](Data%20Structures%20%26%20Algorithms/concatenation-of-array) | Python |
 | [Copy Linked List With Random Pointer](Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer) | Python |
 | [Count Subsequences](Data%20Structures%20%26%20Algorithms/count-subsequences) | Python |
@@ -32,6 +35,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Find Minimum In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array) | Python |
 | [Find Peak Element](Data%20Structures%20%26%20Algorithms/find-peak-element) | Python |
 | [Find Target In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array) | Python |
+| [Generate Parentheses](Data%20Structures%20%26%20Algorithms/generate-parentheses) | Python |
 | [Guess Number Higher Or Lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower) | Python |
 | [Intersection Of Two Linked Lists](Data%20Structures%20%26%20Algorithms/intersection-of-two-linked-lists) | Python |
 | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram) | Python |
@@ -48,14 +52,17 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Median Of Two Sorted Arrays](Data%20Structures%20%26%20Algorithms/median-of-two-sorted-arrays) | Python |
 | [Merge Intervals](Data%20Structures%20%26%20Algorithms/merge-intervals) | Python |
 | [Merge Sorted Array](Data%20Structures%20%26%20Algorithms/merge-sorted-array) | Python |
+| [Merge Two Sorted Linked Lists](Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists) | Python |
 | [Middle Of The Linked List](Data%20Structures%20%26%20Algorithms/middle-of-the-linked-list) | Python |
 | [Move Zeroes](Data%20Structures%20%26%20Algorithms/move-zeroes) | Python |
 | [Palindrome Linked List](Data%20Structures%20%26%20Algorithms/palindrome-linked-list) | Python |
 | [Pascals Triangle](Data%20Structures%20%26%20Algorithms/pascals-triangle) | Python |
+| [Pow X N](Data%20Structures%20%26%20Algorithms/pow-x-n) | Python |
 | [Products Of Array Discluding Self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self) | Python |
 | [Remove Duplicates From Sorted Array](Data%20Structures%20%26%20Algorithms/remove-duplicates-from-sorted-array) | Python |
 | [Remove Node From End Of Linked List](Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list) | Python |
 | [Reverse A Linked List](Data%20Structures%20%26%20Algorithms/reverse-a-linked-list) | Python |
+| [Reverse Linked List Ii](Data%20Structures%20%26%20Algorithms/reverse-linked-list-ii) | Python |
 | [Reverse Nodes In K Group](Data%20Structures%20%26%20Algorithms/reverse-nodes-in-k-group) | Python |
 | [Roman To Integer](Data%20Structures%20%26%20Algorithms/roman-to-integer) | Python |
 | [Rotate Array](Data%20Structures%20%26%20Algorithms/rotate-array) | Python |
@@ -73,6 +80,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx) | Python |
 | [Stone Game](Data%20Structures%20%26%20Algorithms/stone-game) | Python |
 | [Subarray Sum Equals K](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k) | Python |
+| [Subsets Ii](Data%20Structures%20%26%20Algorithms/subsets-ii) | Python |
 | [Three Integer Sum](Data%20Structures%20%26%20Algorithms/three-integer-sum) | Python |
 | [Two Integer Sum](Data%20Structures%20%26%20Algorithms/two-integer-sum) | Python |
 
