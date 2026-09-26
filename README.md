@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-80-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-97-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -20,10 +20,13 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [4sum](Data%20Structures%20%26%20Algorithms/4sum) | Python |
 | [Add Two Numbers](Data%20Structures%20%26%20Algorithms/add-two-numbers) | Python |
 | [Anagram Groups](Data%20Structures%20%26%20Algorithms/anagram-groups) | Python |
+| [Baseball Game](Data%20Structures%20%26%20Algorithms/baseball-game) | Python |
+| [Best Time To Buy And Sell Stock Ii](Data%20Structures%20%26%20Algorithms/best-time-to-buy-and-sell-stock-ii) | Python |
 | [Binary Search](Data%20Structures%20%26%20Algorithms/binary-search) | Python |
 | [Boats To Save People](Data%20Structures%20%26%20Algorithms/boats-to-save-people) | Python |
 | [Buy And Sell Crypto](Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto) | Python |
 | [Capacity To Ship Packages Within D Days](Data%20Structures%20%26%20Algorithms/capacity-to-ship-packages-within-d-days) | Python |
+| [Car Fleet](Data%20Structures%20%26%20Algorithms/car-fleet) | Python |
 | [Check If Array Is Sorted And Rotated](Data%20Structures%20%26%20Algorithms/check-if-array-is-sorted-and-rotated) | Python |
 | [Combination Target Sum](Data%20Structures%20%26%20Algorithms/combination-target-sum) | Python |
 | [Combination Target Sum Ii](Data%20Structures%20%26%20Algorithms/combination-target-sum-ii) | Python |
@@ -31,23 +34,29 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Concatenation Of Array](Data%20Structures%20%26%20Algorithms/concatenation-of-array) | Python |
 | [Copy Linked List With Random Pointer](Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer) | Python |
 | [Count Subsequences](Data%20Structures%20%26%20Algorithms/count-subsequences) | Python |
+| [Daily Temperatures](Data%20Structures%20%26%20Algorithms/daily-temperatures) | Python |
 | [Design Hashset](Data%20Structures%20%26%20Algorithms/design-hashset) | Python |
 | [Duplicate Integer](Data%20Structures%20%26%20Algorithms/duplicate-integer) | Python |
 | [Eating Bananas](Data%20Structures%20%26%20Algorithms/eating-bananas) | Python |
+| [Evaluate Reverse Polish Notation](Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation) | Python |
+| [Find Duplicate Integer](Data%20Structures%20%26%20Algorithms/find-duplicate-integer) | Python |
 | [Find First And Last Position Of Element In Sorted Array](Data%20Structures%20%26%20Algorithms/find-first-and-last-position-of-element-in-sorted-array) | Python |
 | [Find Minimum In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array) | Python |
 | [Find Peak Element](Data%20Structures%20%26%20Algorithms/find-peak-element) | Python |
 | [Find Target In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array) | Python |
 | [Generate Parentheses](Data%20Structures%20%26%20Algorithms/generate-parentheses) | Python |
 | [Guess Number Higher Or Lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower) | Python |
+| [Implement Stack Using Queues](Data%20Structures%20%26%20Algorithms/implement-stack-using-queues) | Python |
 | [Intersection Of Two Linked Lists](Data%20Structures%20%26%20Algorithms/intersection-of-two-linked-lists) | Python |
 | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram) | Python |
 | [Is Palindrome](Data%20Structures%20%26%20Algorithms/is-palindrome) | Python |
 | [Isomorphic Strings](Data%20Structures%20%26%20Algorithms/isomorphic-strings) | Python |
+| [Largest Rectangle In Histogram](Data%20Structures%20%26%20Algorithms/largest-rectangle-in-histogram) | Python |
 | [Linked List Cycle Detection](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection) | Python |
 | [Longest Common Prefix](Data%20Structures%20%26%20Algorithms/longest-common-prefix) | Python |
 | [Longest Consecutive Sequence](Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence) | Python |
 | [Longest Palindromic Substring](Data%20Structures%20%26%20Algorithms/longest-palindromic-substring) | Python |
+| [Lru Cache](Data%20Structures%20%26%20Algorithms/lru-cache) | Python |
 | [Majority Element](Data%20Structures%20%26%20Algorithms/majority-element) | Python |
 | [Majority Element Ii](Data%20Structures%20%26%20Algorithms/majority-element-ii) | Python |
 | [Max Water Container](Data%20Structures%20%26%20Algorithms/max-water-container) | Python |
@@ -56,10 +65,12 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Maximum Subarray](Data%20Structures%20%26%20Algorithms/maximum-subarray) | Python |
 | [Median Of Two Sorted Arrays](Data%20Structures%20%26%20Algorithms/median-of-two-sorted-arrays) | Python |
 | [Merge Intervals](Data%20Structures%20%26%20Algorithms/merge-intervals) | Python |
+| [Merge K Sorted Linked Lists](Data%20Structures%20%26%20Algorithms/merge-k-sorted-linked-lists) | Python |
 | [Merge Sorted Array](Data%20Structures%20%26%20Algorithms/merge-sorted-array) | Python |
 | [Merge Strings Alternately](Data%20Structures%20%26%20Algorithms/merge-strings-alternately) | Python |
 | [Merge Two Sorted Linked Lists](Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists) | Python |
 | [Middle Of The Linked List](Data%20Structures%20%26%20Algorithms/middle-of-the-linked-list) | Python |
+| [Minimum Stack](Data%20Structures%20%26%20Algorithms/minimum-stack) | Python |
 | [Move Zeroes](Data%20Structures%20%26%20Algorithms/move-zeroes) | Python |
 | [N Queens](Data%20Structures%20%26%20Algorithms/n-queens) | Python |
 | [Palindrome Linked List](Data%20Structures%20%26%20Algorithms/palindrome-linked-list) | Python |
@@ -69,6 +80,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Products Of Array Discluding Self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self) | Python |
 | [Remove Duplicates From Sorted Array](Data%20Structures%20%26%20Algorithms/remove-duplicates-from-sorted-array) | Python |
 | [Remove Node From End Of Linked List](Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list) | Python |
+| [Reorder Linked List](Data%20Structures%20%26%20Algorithms/reorder-linked-list) | Python |
 | [Reverse A Linked List](Data%20Structures%20%26%20Algorithms/reverse-a-linked-list) | Python |
 | [Reverse Linked List Ii](Data%20Structures%20%26%20Algorithms/reverse-linked-list-ii) | Python |
 | [Reverse Nodes In K Group](Data%20Structures%20%26%20Algorithms/reverse-nodes-in-k-group) | Python |
@@ -89,14 +101,19 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Split Array Largest Sum](Data%20Structures%20%26%20Algorithms/split-array-largest-sum) | Python |
 | [Sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx) | Python |
 | [Stone Game](Data%20Structures%20%26%20Algorithms/stone-game) | Python |
+| [String Encode And Decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode) | Python |
 | [Subarray Sum Equals K](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k) | Python |
 | [Subsets](Data%20Structures%20%26%20Algorithms/subsets) | Python |
 | [Subsets Ii](Data%20Structures%20%26%20Algorithms/subsets-ii) | Python |
 | [Three Integer Sum](Data%20Structures%20%26%20Algorithms/three-integer-sum) | Python |
+| [Time Based Key Value Store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store) | Python |
+| [Top K Elements In List](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list) | Python |
 | [Trapping Rain Water](Data%20Structures%20%26%20Algorithms/trapping-rain-water) | Python |
 | [Two Integer Sum](Data%20Structures%20%26%20Algorithms/two-integer-sum) | Python |
 | [Two Integer Sum Ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii) | Python |
 | [Valid Palindrome Ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii) | Python |
+| [Valid Sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku) | Python |
+| [Validate Parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses) | Python |
 
 ---
 
