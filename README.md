@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-97-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-101-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -56,6 +56,8 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Longest Common Prefix](Data%20Structures%20%26%20Algorithms/longest-common-prefix) | Python |
 | [Longest Consecutive Sequence](Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence) | Python |
 | [Longest Palindromic Substring](Data%20Structures%20%26%20Algorithms/longest-palindromic-substring) | Python |
+| [Longest Repeating Substring With Replacement](Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement) | Python |
+| [Longest Substring Without Duplicates](Data%20Structures%20%26%20Algorithms/longest-substring-without-duplicates) | Python |
 | [Lru Cache](Data%20Structures%20%26%20Algorithms/lru-cache) | Python |
 | [Majority Element](Data%20Structures%20%26%20Algorithms/majority-element) | Python |
 | [Majority Element Ii](Data%20Structures%20%26%20Algorithms/majority-element-ii) | Python |
@@ -75,6 +77,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [N Queens](Data%20Structures%20%26%20Algorithms/n-queens) | Python |
 | [Palindrome Linked List](Data%20Structures%20%26%20Algorithms/palindrome-linked-list) | Python |
 | [Pascals Triangle](Data%20Structures%20%26%20Algorithms/pascals-triangle) | Python |
+| [Permutation String](Data%20Structures%20%26%20Algorithms/permutation-string) | Python |
 | [Pow X N](Data%20Structures%20%26%20Algorithms/pow-x-n) | Python |
 | [Power Of Two](Data%20Structures%20%26%20Algorithms/power-of-two) | Python |
 | [Products Of Array Discluding Self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self) | Python |
@@ -96,6 +99,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Set Zeroes In Matrix](Data%20Structures%20%26%20Algorithms/set-zeroes-in-matrix) | Python |
 | [Single Element In A Sorted Array](Data%20Structures%20%26%20Algorithms/single-element-in-a-sorted-array) | Python |
 | [Single Number](Data%20Structures%20%26%20Algorithms/single-number) | Python |
+| [Sliding Window Maximum](Data%20Structures%20%26%20Algorithms/sliding-window-maximum) | Python |
 | [Sort Colors](Data%20Structures%20%26%20Algorithms/sort-colors) | Python |
 | [Spiral Matrix](Data%20Structures%20%26%20Algorithms/spiral-matrix) | Python |
 | [Split Array Largest Sum](Data%20Structures%20%26%20Algorithms/split-array-largest-sum) | Python |
