@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-101-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-108-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -20,9 +20,11 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [4sum](Data%20Structures%20%26%20Algorithms/4sum) | Python |
 | [Add Two Numbers](Data%20Structures%20%26%20Algorithms/add-two-numbers) | Python |
 | [Anagram Groups](Data%20Structures%20%26%20Algorithms/anagram-groups) | Python |
+| [Balanced Binary Tree](Data%20Structures%20%26%20Algorithms/balanced-binary-tree) | Python |
 | [Baseball Game](Data%20Structures%20%26%20Algorithms/baseball-game) | Python |
 | [Best Time To Buy And Sell Stock Ii](Data%20Structures%20%26%20Algorithms/best-time-to-buy-and-sell-stock-ii) | Python |
 | [Binary Search](Data%20Structures%20%26%20Algorithms/binary-search) | Python |
+| [Binary Tree Diameter](Data%20Structures%20%26%20Algorithms/binary-tree-diameter) | Python |
 | [Boats To Save People](Data%20Structures%20%26%20Algorithms/boats-to-save-people) | Python |
 | [Buy And Sell Crypto](Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto) | Python |
 | [Capacity To Ship Packages Within D Days](Data%20Structures%20%26%20Algorithms/capacity-to-ship-packages-within-d-days) | Python |
@@ -35,6 +37,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Copy Linked List With Random Pointer](Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer) | Python |
 | [Count Subsequences](Data%20Structures%20%26%20Algorithms/count-subsequences) | Python |
 | [Daily Temperatures](Data%20Structures%20%26%20Algorithms/daily-temperatures) | Python |
+| [Depth Of Binary Tree](Data%20Structures%20%26%20Algorithms/depth-of-binary-tree) | Python |
 | [Design Hashset](Data%20Structures%20%26%20Algorithms/design-hashset) | Python |
 | [Duplicate Integer](Data%20Structures%20%26%20Algorithms/duplicate-integer) | Python |
 | [Eating Bananas](Data%20Structures%20%26%20Algorithms/eating-bananas) | Python |
@@ -48,6 +51,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Guess Number Higher Or Lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower) | Python |
 | [Implement Stack Using Queues](Data%20Structures%20%26%20Algorithms/implement-stack-using-queues) | Python |
 | [Intersection Of Two Linked Lists](Data%20Structures%20%26%20Algorithms/intersection-of-two-linked-lists) | Python |
+| [Invert A Binary Tree](Data%20Structures%20%26%20Algorithms/invert-a-binary-tree) | Python |
 | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram) | Python |
 | [Is Palindrome](Data%20Structures%20%26%20Algorithms/is-palindrome) | Python |
 | [Isomorphic Strings](Data%20Structures%20%26%20Algorithms/isomorphic-strings) | Python |
@@ -73,11 +77,14 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Merge Two Sorted Linked Lists](Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists) | Python |
 | [Middle Of The Linked List](Data%20Structures%20%26%20Algorithms/middle-of-the-linked-list) | Python |
 | [Minimum Stack](Data%20Structures%20%26%20Algorithms/minimum-stack) | Python |
+| [Minimum Window With Characters](Data%20Structures%20%26%20Algorithms/minimum-window-with-characters) | Python |
 | [Move Zeroes](Data%20Structures%20%26%20Algorithms/move-zeroes) | Python |
 | [N Queens](Data%20Structures%20%26%20Algorithms/n-queens) | Python |
 | [Palindrome Linked List](Data%20Structures%20%26%20Algorithms/palindrome-linked-list) | Python |
+| [Palindrome Partitioning](Data%20Structures%20%26%20Algorithms/palindrome-partitioning) | Python |
 | [Pascals Triangle](Data%20Structures%20%26%20Algorithms/pascals-triangle) | Python |
 | [Permutation String](Data%20Structures%20%26%20Algorithms/permutation-string) | Python |
+| [Permutations](Data%20Structures%20%26%20Algorithms/permutations) | Python |
 | [Pow X N](Data%20Structures%20%26%20Algorithms/pow-x-n) | Python |
 | [Power Of Two](Data%20Structures%20%26%20Algorithms/power-of-two) | Python |
 | [Products Of Array Discluding Self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self) | Python |
