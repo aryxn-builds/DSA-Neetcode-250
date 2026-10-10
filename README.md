@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-108-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-115-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -25,6 +25,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Best Time To Buy And Sell Stock Ii](Data%20Structures%20%26%20Algorithms/best-time-to-buy-and-sell-stock-ii) | Python |
 | [Binary Search](Data%20Structures%20%26%20Algorithms/binary-search) | Python |
 | [Binary Tree Diameter](Data%20Structures%20%26%20Algorithms/binary-tree-diameter) | Python |
+| [Binary Tree Right Side View](Data%20Structures%20%26%20Algorithms/binary-tree-right-side-view) | Python |
 | [Boats To Save People](Data%20Structures%20%26%20Algorithms/boats-to-save-people) | Python |
 | [Buy And Sell Crypto](Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto) | Python |
 | [Capacity To Ship Packages Within D Days](Data%20Structures%20%26%20Algorithms/capacity-to-ship-packages-within-d-days) | Python |
@@ -35,6 +36,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Combinations Of A Phone Number](Data%20Structures%20%26%20Algorithms/combinations-of-a-phone-number) | Python |
 | [Concatenation Of Array](Data%20Structures%20%26%20Algorithms/concatenation-of-array) | Python |
 | [Copy Linked List With Random Pointer](Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer) | Python |
+| [Count Good Nodes In Binary Tree](Data%20Structures%20%26%20Algorithms/count-good-nodes-in-binary-tree) | Python |
 | [Count Subsequences](Data%20Structures%20%26%20Algorithms/count-subsequences) | Python |
 | [Daily Temperatures](Data%20Structures%20%26%20Algorithms/daily-temperatures) | Python |
 | [Depth Of Binary Tree](Data%20Structures%20%26%20Algorithms/depth-of-binary-tree) | Python |
@@ -56,12 +58,14 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Is Palindrome](Data%20Structures%20%26%20Algorithms/is-palindrome) | Python |
 | [Isomorphic Strings](Data%20Structures%20%26%20Algorithms/isomorphic-strings) | Python |
 | [Largest Rectangle In Histogram](Data%20Structures%20%26%20Algorithms/largest-rectangle-in-histogram) | Python |
+| [Level Order Traversal Of Binary Tree](Data%20Structures%20%26%20Algorithms/level-order-traversal-of-binary-tree) | Python |
 | [Linked List Cycle Detection](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection) | Python |
 | [Longest Common Prefix](Data%20Structures%20%26%20Algorithms/longest-common-prefix) | Python |
 | [Longest Consecutive Sequence](Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence) | Python |
 | [Longest Palindromic Substring](Data%20Structures%20%26%20Algorithms/longest-palindromic-substring) | Python |
 | [Longest Repeating Substring With Replacement](Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement) | Python |
 | [Longest Substring Without Duplicates](Data%20Structures%20%26%20Algorithms/longest-substring-without-duplicates) | Python |
+| [Lowest Common Ancestor In Binary Search Tree](Data%20Structures%20%26%20Algorithms/lowest-common-ancestor-in-binary-search-tree) | Python |
 | [Lru Cache](Data%20Structures%20%26%20Algorithms/lru-cache) | Python |
 | [Majority Element](Data%20Structures%20%26%20Algorithms/majority-element) | Python |
 | [Majority Element Ii](Data%20Structures%20%26%20Algorithms/majority-element-ii) | Python |
@@ -99,6 +103,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Rotate Array](Data%20Structures%20%26%20Algorithms/rotate-array) | Python |
 | [Rotate List](Data%20Structures%20%26%20Algorithms/rotate-list) | Python |
 | [Rotate Matrix](Data%20Structures%20%26%20Algorithms/rotate-matrix) | Python |
+| [Same Binary Tree](Data%20Structures%20%26%20Algorithms/same-binary-tree) | Python |
 | [Search 2d Matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix) | Python |
 | [Search For Word](Data%20Structures%20%26%20Algorithms/search-for-word) | Python |
 | [Search In Rotated Sorted Array Ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii) | Python |
@@ -116,12 +121,14 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Subarray Sum Equals K](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k) | Python |
 | [Subsets](Data%20Structures%20%26%20Algorithms/subsets) | Python |
 | [Subsets Ii](Data%20Structures%20%26%20Algorithms/subsets-ii) | Python |
+| [Subtree Of A Binary Tree](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree) | Python |
 | [Three Integer Sum](Data%20Structures%20%26%20Algorithms/three-integer-sum) | Python |
 | [Time Based Key Value Store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store) | Python |
 | [Top K Elements In List](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list) | Python |
 | [Trapping Rain Water](Data%20Structures%20%26%20Algorithms/trapping-rain-water) | Python |
 | [Two Integer Sum](Data%20Structures%20%26%20Algorithms/two-integer-sum) | Python |
 | [Two Integer Sum Ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii) | Python |
+| [Valid Binary Search Tree](Data%20Structures%20%26%20Algorithms/valid-binary-search-tree) | Python |
 | [Valid Palindrome Ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii) | Python |
 | [Valid Sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku) | Python |
 | [Validate Parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses) | Python |
