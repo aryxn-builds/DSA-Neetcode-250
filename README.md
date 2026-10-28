@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-115-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-127-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -25,6 +25,8 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Best Time To Buy And Sell Stock Ii](Data%20Structures%20%26%20Algorithms/best-time-to-buy-and-sell-stock-ii) | Python |
 | [Binary Search](Data%20Structures%20%26%20Algorithms/binary-search) | Python |
 | [Binary Tree Diameter](Data%20Structures%20%26%20Algorithms/binary-tree-diameter) | Python |
+| [Binary Tree From Preorder And Inorder Traversal](Data%20Structures%20%26%20Algorithms/binary-tree-from-preorder-and-inorder-traversal) | Python |
+| [Binary Tree Maximum Path Sum](Data%20Structures%20%26%20Algorithms/binary-tree-maximum-path-sum) | Python |
 | [Binary Tree Right Side View](Data%20Structures%20%26%20Algorithms/binary-tree-right-side-view) | Python |
 | [Boats To Save People](Data%20Structures%20%26%20Algorithms/boats-to-save-people) | Python |
 | [Buy And Sell Crypto](Data%20Structures%20%26%20Algorithms/buy-and-sell-crypto) | Python |
@@ -41,6 +43,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Daily Temperatures](Data%20Structures%20%26%20Algorithms/daily-temperatures) | Python |
 | [Depth Of Binary Tree](Data%20Structures%20%26%20Algorithms/depth-of-binary-tree) | Python |
 | [Design Hashset](Data%20Structures%20%26%20Algorithms/design-hashset) | Python |
+| [Design Word Search Data Structure](Data%20Structures%20%26%20Algorithms/design-word-search-data-structure) | Python |
 | [Duplicate Integer](Data%20Structures%20%26%20Algorithms/duplicate-integer) | Python |
 | [Eating Bananas](Data%20Structures%20%26%20Algorithms/eating-bananas) | Python |
 | [Evaluate Reverse Polish Notation](Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation) | Python |
@@ -51,13 +54,19 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Find Target In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array) | Python |
 | [Generate Parentheses](Data%20Structures%20%26%20Algorithms/generate-parentheses) | Python |
 | [Guess Number Higher Or Lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower) | Python |
+| [Implement Prefix Tree](Data%20Structures%20%26%20Algorithms/implement-prefix-tree) | Python |
 | [Implement Stack Using Queues](Data%20Structures%20%26%20Algorithms/implement-stack-using-queues) | Python |
 | [Intersection Of Two Linked Lists](Data%20Structures%20%26%20Algorithms/intersection-of-two-linked-lists) | Python |
 | [Invert A Binary Tree](Data%20Structures%20%26%20Algorithms/invert-a-binary-tree) | Python |
 | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram) | Python |
 | [Is Palindrome](Data%20Structures%20%26%20Algorithms/is-palindrome) | Python |
 | [Isomorphic Strings](Data%20Structures%20%26%20Algorithms/isomorphic-strings) | Python |
+| [K Closest Points To Origin](Data%20Structures%20%26%20Algorithms/k-closest-points-to-origin) | Python |
+| [Kth Largest Element In An Array](Data%20Structures%20%26%20Algorithms/kth-largest-element-in-an-array) | Python |
+| [Kth Largest Integer In A Stream](Data%20Structures%20%26%20Algorithms/kth-largest-integer-in-a-stream) | Python |
+| [Kth Smallest Integer In Bst](Data%20Structures%20%26%20Algorithms/kth-smallest-integer-in-bst) | Python |
 | [Largest Rectangle In Histogram](Data%20Structures%20%26%20Algorithms/largest-rectangle-in-histogram) | Python |
+| [Last Stone Weight](Data%20Structures%20%26%20Algorithms/last-stone-weight) | Python |
 | [Level Order Traversal Of Binary Tree](Data%20Structures%20%26%20Algorithms/level-order-traversal-of-binary-tree) | Python |
 | [Linked List Cycle Detection](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection) | Python |
 | [Longest Common Prefix](Data%20Structures%20%26%20Algorithms/longest-common-prefix) | Python |
@@ -106,8 +115,10 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Same Binary Tree](Data%20Structures%20%26%20Algorithms/same-binary-tree) | Python |
 | [Search 2d Matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix) | Python |
 | [Search For Word](Data%20Structures%20%26%20Algorithms/search-for-word) | Python |
+| [Search For Word Ii](Data%20Structures%20%26%20Algorithms/search-for-word-ii) | Python |
 | [Search In Rotated Sorted Array Ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii) | Python |
 | [Search Insert Position](Data%20Structures%20%26%20Algorithms/search-insert-position) | Python |
+| [Serialize And Deserialize Binary Tree](Data%20Structures%20%26%20Algorithms/serialize-and-deserialize-binary-tree) | Python |
 | [Set Zeroes In Matrix](Data%20Structures%20%26%20Algorithms/set-zeroes-in-matrix) | Python |
 | [Single Element In A Sorted Array](Data%20Structures%20%26%20Algorithms/single-element-in-a-sorted-array) | Python |
 | [Single Number](Data%20Structures%20%26%20Algorithms/single-number) | Python |
@@ -122,6 +133,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Subsets](Data%20Structures%20%26%20Algorithms/subsets) | Python |
 | [Subsets Ii](Data%20Structures%20%26%20Algorithms/subsets-ii) | Python |
 | [Subtree Of A Binary Tree](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree) | Python |
+| [Task Scheduling](Data%20Structures%20%26%20Algorithms/task-scheduling) | Python |
 | [Three Integer Sum](Data%20Structures%20%26%20Algorithms/three-integer-sum) | Python |
 | [Time Based Key Value Store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store) | Python |
 | [Top K Elements In List](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list) | Python |
