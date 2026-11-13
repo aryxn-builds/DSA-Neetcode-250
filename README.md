@@ -3,7 +3,7 @@
 Welcome to my **Data Structures & Algorithms** repository! This repository contains my solutions to various algorithmic problems and data structure implementations.
 
 ![DSA Banner](https://img.shields.io/badge/Algorithms-Awesome-blue?style=for-the-badge&logo=codeforces)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-127-success?style=for-the-badge&logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-137-success?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
@@ -33,22 +33,26 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Capacity To Ship Packages Within D Days](Data%20Structures%20%26%20Algorithms/capacity-to-ship-packages-within-d-days) | Python |
 | [Car Fleet](Data%20Structures%20%26%20Algorithms/car-fleet) | Python |
 | [Check If Array Is Sorted And Rotated](Data%20Structures%20%26%20Algorithms/check-if-array-is-sorted-and-rotated) | Python |
+| [Climbing Stairs](Data%20Structures%20%26%20Algorithms/climbing-stairs) | Python |
 | [Combination Target Sum](Data%20Structures%20%26%20Algorithms/combination-target-sum) | Python |
 | [Combination Target Sum Ii](Data%20Structures%20%26%20Algorithms/combination-target-sum-ii) | Python |
 | [Combinations Of A Phone Number](Data%20Structures%20%26%20Algorithms/combinations-of-a-phone-number) | Python |
 | [Concatenation Of Array](Data%20Structures%20%26%20Algorithms/concatenation-of-array) | Python |
 | [Copy Linked List With Random Pointer](Data%20Structures%20%26%20Algorithms/copy-linked-list-with-random-pointer) | Python |
 | [Count Good Nodes In Binary Tree](Data%20Structures%20%26%20Algorithms/count-good-nodes-in-binary-tree) | Python |
+| [Count Squares](Data%20Structures%20%26%20Algorithms/count-squares) | Python |
 | [Count Subsequences](Data%20Structures%20%26%20Algorithms/count-subsequences) | Python |
 | [Daily Temperatures](Data%20Structures%20%26%20Algorithms/daily-temperatures) | Python |
 | [Depth Of Binary Tree](Data%20Structures%20%26%20Algorithms/depth-of-binary-tree) | Python |
 | [Design Hashset](Data%20Structures%20%26%20Algorithms/design-hashset) | Python |
+| [Design Twitter Feed](Data%20Structures%20%26%20Algorithms/design-twitter-feed) | Python |
 | [Design Word Search Data Structure](Data%20Structures%20%26%20Algorithms/design-word-search-data-structure) | Python |
 | [Duplicate Integer](Data%20Structures%20%26%20Algorithms/duplicate-integer) | Python |
 | [Eating Bananas](Data%20Structures%20%26%20Algorithms/eating-bananas) | Python |
 | [Evaluate Reverse Polish Notation](Data%20Structures%20%26%20Algorithms/evaluate-reverse-polish-notation) | Python |
 | [Find Duplicate Integer](Data%20Structures%20%26%20Algorithms/find-duplicate-integer) | Python |
 | [Find First And Last Position Of Element In Sorted Array](Data%20Structures%20%26%20Algorithms/find-first-and-last-position-of-element-in-sorted-array) | Python |
+| [Find Median In A Data Stream](Data%20Structures%20%26%20Algorithms/find-median-in-a-data-stream) | Python |
 | [Find Minimum In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array) | Python |
 | [Find Peak Element](Data%20Structures%20%26%20Algorithms/find-peak-element) | Python |
 | [Find Target In Rotated Sorted Array](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array) | Python |
@@ -56,6 +60,7 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Guess Number Higher Or Lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower) | Python |
 | [Implement Prefix Tree](Data%20Structures%20%26%20Algorithms/implement-prefix-tree) | Python |
 | [Implement Stack Using Queues](Data%20Structures%20%26%20Algorithms/implement-stack-using-queues) | Python |
+| [Insert New Interval](Data%20Structures%20%26%20Algorithms/insert-new-interval) | Python |
 | [Intersection Of Two Linked Lists](Data%20Structures%20%26%20Algorithms/intersection-of-two-linked-lists) | Python |
 | [Invert A Binary Tree](Data%20Structures%20%26%20Algorithms/invert-a-binary-tree) | Python |
 | [Is Anagram](Data%20Structures%20%26%20Algorithms/is-anagram) | Python |
@@ -89,15 +94,20 @@ This repository is an ongoing journey of mastering Data Structures and Algorithm
 | [Merge Strings Alternately](Data%20Structures%20%26%20Algorithms/merge-strings-alternately) | Python |
 | [Merge Two Sorted Linked Lists](Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists) | Python |
 | [Middle Of The Linked List](Data%20Structures%20%26%20Algorithms/middle-of-the-linked-list) | Python |
+| [Minimum Interval Including Query](Data%20Structures%20%26%20Algorithms/minimum-interval-including-query) | Python |
 | [Minimum Stack](Data%20Structures%20%26%20Algorithms/minimum-stack) | Python |
 | [Minimum Window With Characters](Data%20Structures%20%26%20Algorithms/minimum-window-with-characters) | Python |
 | [Move Zeroes](Data%20Structures%20%26%20Algorithms/move-zeroes) | Python |
+| [Multiply Strings](Data%20Structures%20%26%20Algorithms/multiply-strings) | Python |
 | [N Queens](Data%20Structures%20%26%20Algorithms/n-queens) | Python |
+| [Non Cyclical Number](Data%20Structures%20%26%20Algorithms/non-cyclical-number) | Python |
+| [Non Overlapping Intervals](Data%20Structures%20%26%20Algorithms/non-overlapping-intervals) | Python |
 | [Palindrome Linked List](Data%20Structures%20%26%20Algorithms/palindrome-linked-list) | Python |
 | [Palindrome Partitioning](Data%20Structures%20%26%20Algorithms/palindrome-partitioning) | Python |
 | [Pascals Triangle](Data%20Structures%20%26%20Algorithms/pascals-triangle) | Python |
 | [Permutation String](Data%20Structures%20%26%20Algorithms/permutation-string) | Python |
 | [Permutations](Data%20Structures%20%26%20Algorithms/permutations) | Python |
+| [Plus One](Data%20Structures%20%26%20Algorithms/plus-one) | Python |
 | [Pow X N](Data%20Structures%20%26%20Algorithms/pow-x-n) | Python |
 | [Power Of Two](Data%20Structures%20%26%20Algorithms/power-of-two) | Python |
 | [Products Of Array Discluding Self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self) | Python |
